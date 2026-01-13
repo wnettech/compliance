@@ -21,4 +21,4 @@ Our products utilize the pre-certified **ESP32-C3-MINI-1-N4** wireless module an
 5. **[Module Certificate](./ESP32-C3-MINI-1_FCC_Certificate.pdf)**: FCC Grant for the core wireless module.
 
 ---
-For technical support or inquiries, please contact: kzhang.engineering@gmail.com
+For technical support or inquiries, please contact: kevinzhang61@hotmail.com
