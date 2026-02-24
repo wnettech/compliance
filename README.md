@@ -1,24 +1,31 @@
-# WNetTech CONV-WiFi Series Compliance Documents
+WNetTech Interface Development & Evaluation Series - Compliance Resources
+This repository provides official regulatory supporting documentation for the WNetTech Interface Development & Evaluation Series. These products are intended solely for Engineering Evaluation and Secondary Development by professional developers or hobbyists.
 
-This repository contains the official regulatory compliance documentation for the **WNetTech CONV-WiFi Series** (Industrial Protocol Converters).
+Product Nature & Compliance Strategy
+As these modules are non-finished sub-assemblies/components, they are not intended for direct sale to end consumers.
 
-## Models Covered
-- **CAN-WiFi-003** (Representative Model)
+  .Core Wireless Compliance: 
+   All models integrate the pre-certified ESP32-C3-MINI-1-N4 module (FCC ID: 2AC7Z-ESP32C3MINI1).
+
+  .Design Standards: 
+   The hardware architecture is designed to follow the technical requirements of FCC Part 15B and ICES-003 Class B.
+
+  .Integration Responsibility: 
+   Developers are responsible for obtaining full compliance certifications for their final integrated products.
+
+## Models Covered(Evaluation Kits)
 - UART-WiFi-001
 - SPI-WiFi-002
+- CAN-WiFi-003
 - RS485-WiFi-004
 
-## Compliance Information
-Our products utilize the pre-certified **ESP32-C3-MINI-1-N4** wireless module and comply with:
-- **FCC Part 15 Subpart B** (Unintentional Radiators)
-- **ICES-003 Issue 7** (Canada)
-
 ## Document List
-1. **[SDoC](./SDoC_WNetTech_Series.pdf)**: Supplier's Declaration of Conformity.
-2. **[Label Information](./Labeling_Artwork_and_Location.pdf)**: Details regarding correct FCC ID labeling and physical placement.
-3. **[Hardware Architecture](./System_Block_Diagram.pdf)**: System block diagram for technical review.
+1. **[SDoC](./SDoC_WNetTech_Series.pdf)**: Supplier's Declaration of Conformity for professional sub-assemblies.
+2. **[Label Information](./Labeling_Artwork_and_Location.pdf)**: Details of the physical insert card containing FCC ID and mandatory safety warnings.
+3. **[Hardware Architecture](./System_Block_Diagram.pdf)**: System architecture confirming no modifications to the RF circuitry.
 4. **[User Manuals](./User_Manual.pdf)**: Full technical instructions and safety statements.
-5. **[Module Certificate](./ESP32-C3-MINI-1_FCC_Certificate.pdf)**: FCC Grant for the core wireless module.
+5. **Quick Start Manuals (CN/EN):**: Quick start instruction.
+6. **[Module Certificate](./ESP32-C3-MINI-1_FCC_Certificate.pdf)**: Original FCC Grant for the integrated wireless core.
 
 ---
 For technical support or inquiries, please contact: kevinzhang61@hotmail.com
