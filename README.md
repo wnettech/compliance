@@ -24,7 +24,7 @@ As these modules are non-finished sub-assemblies/components, they are not intend
 2. **[Label Information](./Labeling_Artwork_and_Location.pdf)**: Details of the physical insert card containing FCC ID and mandatory safety warnings.
 3. **[Hardware Architecture](./System_Block_Diagram.pdf)**: System architecture confirming no modifications to the RF circuitry.
 4. **[User Manuals](./User_Manual.pdf)**: Full technical instructions and safety statements.
-5. **Quick Start Manuals (CN/EN):**: Quick start instruction.
+5. **Quick Start Manuals (cn/en):**: Quick start instruction.
 6. **[Module Certificate](./ESP32-C3-MINI-1_FCC_Certificate.pdf)**: Original FCC Grant for the integrated wireless core.
 
 ---
